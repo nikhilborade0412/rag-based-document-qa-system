@@ -4,16 +4,6 @@
 An AI-powered **Document Question Answering System** that uses **RAG (Retrieval-Augmented Generation)** to provide accurate, citation-based answers from your internal documents.
 
 ---
-
-## 🌐 Live Demo
-
-🔗 **Live Application:**  
-http://YOUR_EC2_PUBLIC_IP:8501  
-
-> Replace the above link with your actual deployed EC2 URL
-
----
-
 ## 🖼️ Application Preview
 
 ![App Screenshot](images/img.png)
